@@ -9,6 +9,11 @@ li.added.tag {
   color: #a6afb8;
 }
 
+#main a:hover {
+  background: #a77dc2;
+  color: #fff;
+}
+
 .wrapper {
   box-shadow: none;
 }

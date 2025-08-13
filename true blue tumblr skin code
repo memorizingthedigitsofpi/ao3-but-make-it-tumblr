@@ -424,43 +424,43 @@ ul.tags li a.tag {
 
 ul.tags li.warnings:first-child:before {
   content: "Archive Warnings: ";
-  color: #b3012a;
+  color: #000;
   font-weight: bold;
 }
 
 li.warnings + li.relationships:before {
   content: "Relationships: ";
-  color: #ff809e;
+  color: #000;
   font-weight: bold;
 }
 
 li.relationships + li.characters:before {
   content: "Characters: ";
-  color: #a401cc;
+  color: #000;
   font-weight: bold;
 }
 
 li.characters + li.freeforms:before {
   content: "Additional Tags: ";
-  color: #eb99ff;
+  color: #000;
   font-weight: bold;
 }
 
 li.warnings + li.characters:before {
   content: "Characters: ";
-  color: #a401cc;
+  color: #000;
   font-weight: bold;
 }
 
 li.warnings + li.freeforms:before {
   content: "Additional Tags: ";
-  color: #eb99ff;
+  color: #000;
   font-weight: bold;
 }
 
 li.relationships + li.freeforms:before {
   content: "Additional Tags: ";
-  color: #eb99ff;
+  color: #000;
   font-weight: bold;
 }
 

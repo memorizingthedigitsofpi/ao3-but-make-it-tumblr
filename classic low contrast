@@ -93,7 +93,8 @@ span.claimed {
 }
 
 .comment h4.byline,
-.comment div.icon {
+.comment div.icon,
+.thread .even {
   background: #263b53;
   border-bottom: 5px solid #00b8ff;
 }
